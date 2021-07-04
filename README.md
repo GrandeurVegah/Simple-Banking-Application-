@@ -4,7 +4,7 @@ The application allows users to create accounts and transfer money between them
 
 There are four classes implemented: 
 
-a Bank class: 
+A Bank class: 
 
 The bank class keeps information on all its accounts in an ArrayList. The
 bank class can retrieve a particular account using a account ID and perform
